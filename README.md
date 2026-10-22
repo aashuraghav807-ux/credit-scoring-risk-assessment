@@ -66,3 +66,13 @@ The following models are compared:
 
 ## Disclaimer
 This project is for educational and portfolio purposes only. Its predictions should not be used as the sole basis for real-world lending or credit decisions.
+
+## Author
+
+**Ashutosh Raghav**
+B.Tech CSE
+
+### Connect With Me
+
+* **GitHub:** [aashuraghav807-ux](https://github.com/aashuraghav807-ux)
+* **LinkedIn:** [Ashutosh Raghav](https://www.linkedin.com/in/ashutosh-raghav-639a05383/)
