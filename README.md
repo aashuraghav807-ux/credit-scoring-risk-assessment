@@ -4,13 +4,17 @@
 This project uses machine learning to analyze credit risk using the German Credit dataset. It compares multiple classification models and evaluates their performance using accuracy, bad-credit recall, confusion matrices, and a cost-based evaluation.
 
 ## Dataset
-- Dataset: German Credit Data
-- Records: 1,000
-- Features: 20 input features
-- Target: Credit risk classification
-- Source: UCI Machine Learning Repository — Statlog (German Credit Data)
 
-The dataset is used for educational and portfolio purposes. Please refer to the original dataset source for its documentation and usage terms.
+* **Dataset:** German Credit Data
+* **Records:** 1,000
+* **Features:** 20 input features
+* **Target:** Credit risk classification
+* **Source:** UCI Machine Learning Repository — Statlog (German Credit Data)
+
+The dataset is not included in this repository. Please obtain it from the original source and place the required dataset files in the `data/` folder before running the project.
+
+This project uses the dataset for educational and portfolio purposes. Please refer to the original dataset source for its documentation and usage terms.
+
 
 ## Machine Learning Models
 The following models are compared:
